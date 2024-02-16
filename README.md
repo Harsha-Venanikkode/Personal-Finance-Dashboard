@@ -10,3 +10,4 @@ This repository contains a comprehensive personal finance analysis using pivot t
 * Explore Pivot Tables: Navigate to the pivot tables section to analyze income and expense categories,totals,and trends.  
 * Interact with the Dashboard: Visit the dashboard tab to visualize income and expense trends through charts and graphs.  
 * Gain Insights: Use the analysis provided by the pivot tables and dashboard to identify areas for improvement and make informed financial decisions.
+!["Dashboard Screenshot"](https://raw.githubusercontent.com/Harsha-Venanikkode/Personal-Finance-Dashboard/dbd692f2b84cd3c12a552e65b81a890183c11e72/Screenshot%202024-02-16%20102601.png)
