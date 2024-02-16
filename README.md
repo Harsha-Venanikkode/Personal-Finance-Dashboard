@@ -1,7 +1,7 @@
 # Personal-Finance-Dashboard
 This repository contains a comprehensive personal finance analysis using pivot table and dashboard created in excel, offering insights into income and expenses.  
-Features
-Income Tracking and Expense Management: Monitor sources of income and track expenses and categorize spending to identify areas for savings.
+Features  
+Income Tracking and Expense Management: Monitor sources of income and track expenses and categorize spending to identify areas for savings.  
 Pivot Tables: Utilize pivot tables to summarize and analyze financial data dynamically.
 Dashboard: Visualize income and expense trends through an interactive dashboard for easy interpretation.
 Usage
